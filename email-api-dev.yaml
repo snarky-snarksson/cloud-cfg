@@ -1,6 +1,0 @@
-mail:
-  server:
-    url: "smtpserver"
-    login: "somelogin"
-    password: "somepassword"
-    port: "someport"
