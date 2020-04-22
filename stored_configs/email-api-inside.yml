@@ -1,0 +1,6 @@
+mail:
+  server:
+    url: "insidesmtpserver"
+    login: "insedsomelogin"
+    password: "insidesomepassword"
+    port: "insidesomeport"
